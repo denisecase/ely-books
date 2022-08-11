@@ -1,6 +1,8 @@
 # ely-books
 
-## August 2022
+## August 2022 Books
+
+- The Maid, Nita Prose
 
 
 ## July 2022 Art
