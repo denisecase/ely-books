@@ -2,6 +2,7 @@
 
 ## August 2022 Books
 
+- State of Terror, Clinton & Penny
 - The Maid, Nita Prose
 
 
