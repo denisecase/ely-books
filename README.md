@@ -1,7 +1,12 @@
 # ely-books
 
+## August 2022 History
+
+- [Minnesota Digital Library](https://mndigital.org/)
+
 ## August 2022 Books
 
+- Stories of Old Ely and the Lake Country, Mike Hillman
 - State of Terror, Clinton & Penny
 - The Maid, Nita Prose
 
