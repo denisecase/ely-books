@@ -12,8 +12,9 @@
 
 ## September 2022
 
-- ⭐ Foundation, Dr. Eric Goodman and Peter Park
+- ⭐ Foundation Training, Dr. Eric Goodman and Peter Park
 - ⭐ The Big Dark Sky, Dean Koontz
+- ⭐ Last Man Out: The Story of the Springhill Mine Disaster, Melissa Fay Greene
 - Dream Town, David Baldacci (didn't finish)
 
 ---
