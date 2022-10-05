@@ -2,6 +2,17 @@
 
 ---
 
+## October 2022 (other)
+
+- Open Lunar Foundation
+- IBM DataBand <https://databand.ai/>
+
+## October 2022
+
+- ⭐ The Apollo Murders, Chris Hadfield
+
+---
+
 ## September 2022 History (Local)
 
 - The White Pine Industry in Minnesota: A History, Agnes M. Larson, 338.4
