@@ -4,7 +4,7 @@
 
 ## October 2022 (other)
 
-- Open Lunar Foundation
+- Open Lunar Foundation <https://www.openlunar.org/>
 - IBM DataBand <https://databand.ai/>
 
 ## October 2022
