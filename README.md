@@ -10,6 +10,7 @@
 ## October 2022
 
 - ⭐ The Apollo Murders, Chris Hadfield
+- When a Killer Calls, John Douglas and Mark Olshaker
 
 ---
 
