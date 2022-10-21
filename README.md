@@ -11,7 +11,8 @@
 
 - ⭐ The Apollo Murders, Chris Hadfield
 - When a Killer Calls, John Douglas and Mark Olshaker
-- ⭐ The Anthropocene Reviewed, John Green (in progress)
+- ⭐ The Anthropocene Reviewed, John Green
+- Long Shadows, David Baldacci (Memory Man #7)
 
 ---
 
